@@ -1,0 +1,40 @@
+segment_id,lifecycle_stage,day_label,primary_goal,inferred_goal_type,sub_goal
+0,trial,D0,Engagement → Conversion,Engagement,Complete first learning session — introduce all features
+0,trial,D1,Engagement → Conversion,Engagement,Second session + first streak formed
+0,trial,D2,Engagement → Conversion,Engagement,Discover social and retention mechanics
+0,trial,D3,Engagement → Conversion,Engagement,Deepen skill engagement via engagement features
+0,trial,D4,Engagement → Conversion,Engagement,Hit North Star — 4th session completes weekly target
+0,trial,D5,Engagement → Conversion,Engagement,Unlock first progress milestone
+0,trial,D6–D7,Engagement → Conversion,Conversion,Surface accumulated value and prompt upgrade to paid
+0,paid,W2 (D8–D14),Retention,Retention,Protect streak and anchor user in their league
+0,paid,W3 (D15–D21),Retention,Retention,Reduce friction at the mid-funnel drop-off point
+0,paid,W4 (D22–D30),Retention,Retention,Surface milestone achievement and trigger renewal intent
+0,churned,Re-entry D1,Reactivation → Retention,Reactivation,Zero-pressure restart with one quick win
+0,churned,Re-entry D2–D3,Reactivation → Retention,Reactivation,Surface past progress to remind user how far they came
+0,churned,Re-entry D4+,Reactivation → Retention,Retention,Rebuild streak with no-penalty framing and re-anchor to league
+1,trial,D0,Engagement → Conversion,Engagement,Complete first learning session — introduce all features
+1,trial,D1,Engagement → Conversion,Engagement,Second session + first streak formed
+1,trial,D2,Engagement → Conversion,Engagement,Discover social and retention mechanics
+1,trial,D3,Engagement → Conversion,Engagement,Deepen skill engagement via engagement features
+1,trial,D4,Engagement → Conversion,Engagement,Hit North Star — 4th session completes weekly target
+1,trial,D5,Engagement → Conversion,Engagement,Unlock first progress milestone
+1,trial,D6–D7,Engagement → Conversion,Conversion,Surface accumulated value and prompt upgrade to paid
+1,paid,W2 (D8–D14),Retention,Retention,Protect streak and anchor user in their league
+1,paid,W3 (D15–D21),Retention,Retention,Reduce friction at the mid-funnel drop-off point
+1,paid,W4 (D22–D30),Retention,Retention,Surface milestone achievement and trigger renewal intent
+1,churned,Re-entry D1,Reactivation → Retention,Reactivation,Zero-pressure restart with one quick win
+1,churned,Re-entry D2–D3,Reactivation → Retention,Reactivation,Surface past progress to remind user how far they came
+1,churned,Re-entry D4+,Reactivation → Retention,Retention,Rebuild streak with no-penalty framing and re-anchor to league
+2,trial,D0,Engagement → Conversion,Engagement,Complete first learning session — introduce all features
+2,trial,D1,Engagement → Conversion,Engagement,Second session + first streak formed
+2,trial,D2,Engagement → Conversion,Engagement,Discover social and retention mechanics
+2,trial,D3,Engagement → Conversion,Engagement,Deepen skill engagement via engagement features
+2,trial,D4,Engagement → Conversion,Engagement,Hit North Star — 4th session completes weekly target
+2,trial,D5,Engagement → Conversion,Engagement,Unlock first progress milestone
+2,trial,D6–D7,Engagement → Conversion,Conversion,Surface accumulated value and prompt upgrade to paid
+2,paid,W2 (D8–D14),Retention,Retention,Protect streak and anchor user in their league
+2,paid,W3 (D15–D21),Retention,Retention,Reduce friction at the mid-funnel drop-off point
+2,paid,W4 (D22–D30),Retention,Retention,Surface milestone achievement and trigger renewal intent
+2,churned,Re-entry D1,Reactivation → Retention,Reactivation,Zero-pressure restart with one quick win
+2,churned,Re-entry D2–D3,Reactivation → Retention,Reactivation,Surface past progress to remind user how far they came
+2,churned,Re-entry D4+,Reactivation → Retention,Retention,Rebuild streak with no-penalty framing and re-anchor to league

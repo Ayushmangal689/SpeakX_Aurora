@@ -1,0 +1,10 @@
+segment_id,rank,timing_window,anchor_hour,expected_ctr,expected_er
+0,1,evening,19:00,46.08,28.42
+0,2,late_afternoon,18:00,28.59,21.09
+0,3,early_morning,07:00,23.36,15.26
+1,1,early_morning,07:00,5.35,2.9
+1,2,night,22:00,5.67,3.38
+1,3,mid_morning,11:00,3.54,1.96
+2,1,evening,20:00,38.5,32.97
+2,2,early_morning,08:00,14.38,8.15
+2,3,mid_morning,11:00,20.69,14.71

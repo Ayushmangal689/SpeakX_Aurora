@@ -1,0 +1,274 @@
+user_id,segment_id,lifecycle_day,total_notif,notification,time,channel,message_title_en,message_body_en,cta_text_en,message_title_hi,message_body_hi,cta_text_hi
+US_1,0,lifecycle_stage_paid,5,notif_1,03:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_1,0,lifecycle_stage_paid,5,notif_2,05:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_1,0,lifecycle_stage_paid,5,notif_3,07:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_1,0,lifecycle_stage_paid,5,notif_4,07:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_1,0,lifecycle_stage_paid,5,notif_5,09:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_2,1,lifecycle_stage_churned,3,notif_1,16:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_2,1,lifecycle_stage_churned,3,notif_2,18:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_2,1,lifecycle_stage_churned,3,notif_3,20:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_3,2,lifecycle_stage_trial,5,notif_1,05:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_3,2,lifecycle_stage_trial,5,notif_2,07:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_3,2,lifecycle_stage_trial,5,notif_3,09:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_3,2,lifecycle_stage_trial,5,notif_4,09:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_3,2,lifecycle_stage_trial,5,notif_5,11:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_4,0,lifecycle_stage_paid,5,notif_1,11:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_4,0,lifecycle_stage_paid,5,notif_2,13:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_4,0,lifecycle_stage_paid,5,notif_3,15:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_4,0,lifecycle_stage_paid,5,notif_4,15:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_4,0,lifecycle_stage_paid,5,notif_5,17:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_5,1,lifecycle_stage_churned,3,notif_1,07:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_5,1,lifecycle_stage_churned,3,notif_2,09:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_5,1,lifecycle_stage_churned,3,notif_3,11:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_6,2,lifecycle_stage_trial,5,notif_1,04:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_6,2,lifecycle_stage_trial,5,notif_2,06:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_6,2,lifecycle_stage_trial,5,notif_3,08:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_6,2,lifecycle_stage_trial,5,notif_4,08:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_6,2,lifecycle_stage_trial,5,notif_5,10:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_7,1,lifecycle_stage_inactive,3,notif_1,18:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_7,1,lifecycle_stage_inactive,3,notif_2,20:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_7,1,lifecycle_stage_inactive,3,notif_3,22:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_8,2,lifecycle_stage_trial,5,notif_1,09:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_8,2,lifecycle_stage_trial,5,notif_2,11:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_8,2,lifecycle_stage_trial,5,notif_3,13:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_8,2,lifecycle_stage_trial,5,notif_4,13:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_8,2,lifecycle_stage_trial,5,notif_5,15:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_9,2,lifecycle_stage_trial,5,notif_1,04:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_9,2,lifecycle_stage_trial,5,notif_2,06:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_9,2,lifecycle_stage_trial,5,notif_3,08:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_9,2,lifecycle_stage_trial,5,notif_4,08:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_9,2,lifecycle_stage_trial,5,notif_5,10:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_10,1,lifecycle_stage_inactive,3,notif_1,05:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_10,1,lifecycle_stage_inactive,3,notif_2,07:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_10,1,lifecycle_stage_inactive,3,notif_3,09:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_11,1,lifecycle_stage_inactive,3,notif_1,05:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_11,1,lifecycle_stage_inactive,3,notif_2,07:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_11,1,lifecycle_stage_inactive,3,notif_3,09:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_12,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_12,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_12,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_12,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_12,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_13,0,lifecycle_stage_paid,5,notif_1,04:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_13,0,lifecycle_stage_paid,5,notif_2,06:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_13,0,lifecycle_stage_paid,5,notif_3,08:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_13,0,lifecycle_stage_paid,5,notif_4,08:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_13,0,lifecycle_stage_paid,5,notif_5,10:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_14,2,lifecycle_stage_trial,5,notif_1,06:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_14,2,lifecycle_stage_trial,5,notif_2,08:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_14,2,lifecycle_stage_trial,5,notif_3,10:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_14,2,lifecycle_stage_trial,5,notif_4,10:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_14,2,lifecycle_stage_trial,5,notif_5,12:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_15,1,lifecycle_stage_churned,3,notif_1,18:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_15,1,lifecycle_stage_churned,3,notif_2,20:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_15,1,lifecycle_stage_churned,3,notif_3,22:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_16,2,lifecycle_stage_trial,5,notif_1,16:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_16,2,lifecycle_stage_trial,5,notif_2,18:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_16,2,lifecycle_stage_trial,5,notif_3,20:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_16,2,lifecycle_stage_trial,5,notif_4,20:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_16,2,lifecycle_stage_trial,5,notif_5,22:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_17,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_17,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_17,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_17,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_17,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_18,0,lifecycle_stage_paid,5,notif_1,14:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_18,0,lifecycle_stage_paid,5,notif_2,16:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_18,0,lifecycle_stage_paid,5,notif_3,18:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_18,0,lifecycle_stage_paid,5,notif_4,18:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_18,0,lifecycle_stage_paid,5,notif_5,20:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_19,0,lifecycle_stage_paid,5,notif_1,16:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_19,0,lifecycle_stage_paid,5,notif_2,18:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_19,0,lifecycle_stage_paid,5,notif_3,20:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_19,0,lifecycle_stage_paid,5,notif_4,20:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_19,0,lifecycle_stage_paid,5,notif_5,22:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_20,1,lifecycle_stage_trial,3,notif_1,04:00,In-App,Discover More,Explore new strategies with {feature_name},Let's Go,Kuch Naya Dekho,{feature_name} ke saath naye tareeke kholein,Chalo Shuru Karein
+US_20,1,lifecycle_stage_trial,3,notif_2,06:00,Push,Unlock Your Potential,Discover new strategies with {feature_name} now,Start Now,Apna Potential Kholein,{feature_name} ke saath naye tareeke abhi kholein,Shuru Karein
+US_20,1,lifecycle_stage_trial,3,notif_3,08:00,Email,Great Job,You've made progress with {feature_name} today,Done,Bahut Achha,Aapne aaj {feature_name} ke saath pragati ki,Ho Gaya
+US_21,0,lifecycle_stage_paid,5,notif_1,01:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_21,0,lifecycle_stage_paid,5,notif_2,03:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_21,0,lifecycle_stage_paid,5,notif_3,05:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_21,0,lifecycle_stage_paid,5,notif_4,05:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_21,0,lifecycle_stage_paid,5,notif_5,07:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_22,0,lifecycle_stage_paid,5,notif_1,16:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_22,0,lifecycle_stage_paid,5,notif_2,18:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_22,0,lifecycle_stage_paid,5,notif_3,20:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_22,0,lifecycle_stage_paid,5,notif_4,20:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_22,0,lifecycle_stage_paid,5,notif_5,22:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_23,2,lifecycle_stage_trial,5,notif_1,16:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_23,2,lifecycle_stage_trial,5,notif_2,18:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_23,2,lifecycle_stage_trial,5,notif_3,20:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_23,2,lifecycle_stage_trial,5,notif_4,20:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_23,2,lifecycle_stage_trial,5,notif_5,22:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_24,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_24,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_24,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_24,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_24,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_25,0,lifecycle_stage_paid,5,notif_1,16:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_25,0,lifecycle_stage_paid,5,notif_2,18:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_25,0,lifecycle_stage_paid,5,notif_3,20:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_25,0,lifecycle_stage_paid,5,notif_4,20:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_25,0,lifecycle_stage_paid,5,notif_5,22:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_26,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_26,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_26,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_26,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_26,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_27,2,lifecycle_stage_trial,5,notif_1,03:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_27,2,lifecycle_stage_trial,5,notif_2,05:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_27,2,lifecycle_stage_trial,5,notif_3,07:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_27,2,lifecycle_stage_trial,5,notif_4,07:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_27,2,lifecycle_stage_trial,5,notif_5,09:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_28,1,lifecycle_stage_churned,3,notif_1,21:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_28,1,lifecycle_stage_churned,3,notif_2,23:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_28,1,lifecycle_stage_churned,3,notif_3,01:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_29,0,lifecycle_stage_paid,5,notif_1,16:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_29,0,lifecycle_stage_paid,5,notif_2,18:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_29,0,lifecycle_stage_paid,5,notif_3,20:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_29,0,lifecycle_stage_paid,5,notif_4,20:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_29,0,lifecycle_stage_paid,5,notif_5,22:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_30,0,lifecycle_stage_paid,5,notif_1,17:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_30,0,lifecycle_stage_paid,5,notif_2,19:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_30,0,lifecycle_stage_paid,5,notif_3,21:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_30,0,lifecycle_stage_paid,5,notif_4,21:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_30,0,lifecycle_stage_paid,5,notif_5,23:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_31,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_31,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_31,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_31,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_31,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_32,0,lifecycle_stage_paid,5,notif_1,18:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_32,0,lifecycle_stage_paid,5,notif_2,20:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_32,0,lifecycle_stage_paid,5,notif_3,22:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_32,0,lifecycle_stage_paid,5,notif_4,22:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_32,0,lifecycle_stage_paid,5,notif_5,00:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_33,2,lifecycle_stage_paid,5,notif_1,01:00,Push,Get Ready,"Your next session is near, {first_name}!",Let's Go,Taiyaar Ho,"Aapki agli session near hai, {first_name}!",Chalo
+US_33,2,lifecycle_stage_paid,5,notif_2,03:00,In-App,New Skill,"Discover new skills, {first_name}!",Explore,Naya Skill,"Naye skills ko discover karo, {first_name}!",Dekho
+US_33,2,lifecycle_stage_paid,5,notif_3,05:00,Push,Level Up,"Level up with {streak_current} sessions, {first_name}!",Now,Level Up,"{streak_current} sessions ke saath level up karo, {first_name}!",Abhi
+US_33,2,lifecycle_stage_paid,5,notif_4,05:15,In-App,You're Back,"Welcome back, {first_name}! Earn {coins_balance} coins",Play,Aap Wapas,"Wapas aaye, {first_name}! {coins_balance} coins kamao",Khelo
+US_33,2,lifecycle_stage_paid,5,notif_5,07:00,Email,Daily Recap,"You mastered {feature_name} today, {first_name}!",Done,Daily Recap,"Aaj {feature_name} master kiya, {first_name}!",Ho Gaya
+US_34,1,lifecycle_stage_inactive,3,notif_1,11:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_34,1,lifecycle_stage_inactive,3,notif_2,13:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_34,1,lifecycle_stage_inactive,3,notif_3,15:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_35,0,lifecycle_stage_paid,5,notif_1,14:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_35,0,lifecycle_stage_paid,5,notif_2,16:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_35,0,lifecycle_stage_paid,5,notif_3,18:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_35,0,lifecycle_stage_paid,5,notif_4,18:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_35,0,lifecycle_stage_paid,5,notif_5,20:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_36,0,lifecycle_stage_paid,5,notif_1,03:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_36,0,lifecycle_stage_paid,5,notif_2,05:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_36,0,lifecycle_stage_paid,5,notif_3,07:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_36,0,lifecycle_stage_paid,5,notif_4,07:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_36,0,lifecycle_stage_paid,5,notif_5,09:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_37,2,lifecycle_stage_trial,5,notif_1,15:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_37,2,lifecycle_stage_trial,5,notif_2,17:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_37,2,lifecycle_stage_trial,5,notif_3,19:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_37,2,lifecycle_stage_trial,5,notif_4,19:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_37,2,lifecycle_stage_trial,5,notif_5,21:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_38,0,lifecycle_stage_paid,5,notif_1,14:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_38,0,lifecycle_stage_paid,5,notif_2,16:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_38,0,lifecycle_stage_paid,5,notif_3,18:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_38,0,lifecycle_stage_paid,5,notif_4,18:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_38,0,lifecycle_stage_paid,5,notif_5,20:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_39,0,lifecycle_stage_paid,5,notif_1,09:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_39,0,lifecycle_stage_paid,5,notif_2,11:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_39,0,lifecycle_stage_paid,5,notif_3,13:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_39,0,lifecycle_stage_paid,5,notif_4,13:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_39,0,lifecycle_stage_paid,5,notif_5,15:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_40,2,lifecycle_stage_trial,5,notif_1,16:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_40,2,lifecycle_stage_trial,5,notif_2,18:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_40,2,lifecycle_stage_trial,5,notif_3,20:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_40,2,lifecycle_stage_trial,5,notif_4,20:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_40,2,lifecycle_stage_trial,5,notif_5,22:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_41,0,lifecycle_stage_paid,5,notif_1,13:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_41,0,lifecycle_stage_paid,5,notif_2,15:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_41,0,lifecycle_stage_paid,5,notif_3,17:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_41,0,lifecycle_stage_paid,5,notif_4,17:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_41,0,lifecycle_stage_paid,5,notif_5,19:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_42,1,lifecycle_stage_inactive,3,notif_1,10:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_42,1,lifecycle_stage_inactive,3,notif_2,12:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_42,1,lifecycle_stage_inactive,3,notif_3,14:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_43,2,lifecycle_stage_trial,5,notif_1,16:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_43,2,lifecycle_stage_trial,5,notif_2,18:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_43,2,lifecycle_stage_trial,5,notif_3,20:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_43,2,lifecycle_stage_trial,5,notif_4,20:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_43,2,lifecycle_stage_trial,5,notif_5,22:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_44,2,lifecycle_stage_trial,5,notif_1,07:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_44,2,lifecycle_stage_trial,5,notif_2,09:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_44,2,lifecycle_stage_trial,5,notif_3,11:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_44,2,lifecycle_stage_trial,5,notif_4,11:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_44,2,lifecycle_stage_trial,5,notif_5,13:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_45,1,lifecycle_stage_churned,3,notif_1,21:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_45,1,lifecycle_stage_churned,3,notif_2,23:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_45,1,lifecycle_stage_churned,3,notif_3,01:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_46,1,lifecycle_stage_inactive,3,notif_1,19:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_46,1,lifecycle_stage_inactive,3,notif_2,21:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_46,1,lifecycle_stage_inactive,3,notif_3,23:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_47,1,lifecycle_stage_churned,3,notif_1,20:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_47,1,lifecycle_stage_churned,3,notif_2,22:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_47,1,lifecycle_stage_churned,3,notif_3,00:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_48,0,lifecycle_stage_paid,5,notif_1,14:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_48,0,lifecycle_stage_paid,5,notif_2,16:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_48,0,lifecycle_stage_paid,5,notif_3,18:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_48,0,lifecycle_stage_paid,5,notif_4,18:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_48,0,lifecycle_stage_paid,5,notif_5,20:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_49,0,lifecycle_stage_paid,5,notif_1,03:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_49,0,lifecycle_stage_paid,5,notif_2,05:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_49,0,lifecycle_stage_paid,5,notif_3,07:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_49,0,lifecycle_stage_paid,5,notif_4,07:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_49,0,lifecycle_stage_paid,5,notif_5,09:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_50,0,lifecycle_stage_paid,5,notif_1,15:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_50,0,lifecycle_stage_paid,5,notif_2,17:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_50,0,lifecycle_stage_paid,5,notif_3,19:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_50,0,lifecycle_stage_paid,5,notif_4,19:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_50,0,lifecycle_stage_paid,5,notif_5,21:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_51,2,lifecycle_stage_trial,5,notif_1,07:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_51,2,lifecycle_stage_trial,5,notif_2,09:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_51,2,lifecycle_stage_trial,5,notif_3,11:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_51,2,lifecycle_stage_trial,5,notif_4,11:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_51,2,lifecycle_stage_trial,5,notif_5,13:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_52,0,lifecycle_stage_paid,5,notif_1,16:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_52,0,lifecycle_stage_paid,5,notif_2,18:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_52,0,lifecycle_stage_paid,5,notif_3,20:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_52,0,lifecycle_stage_paid,5,notif_4,20:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_52,0,lifecycle_stage_paid,5,notif_5,22:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_53,2,lifecycle_stage_trial,5,notif_1,15:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_53,2,lifecycle_stage_trial,5,notif_2,17:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_53,2,lifecycle_stage_trial,5,notif_3,19:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_53,2,lifecycle_stage_trial,5,notif_4,19:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_53,2,lifecycle_stage_trial,5,notif_5,21:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_54,1,lifecycle_stage_churned,3,notif_1,09:00,In-App,New Strategy,Discover new ways to learn with {feature_name},Explore,Naya Tareeka,"{first_name}, {feature_name} ke naye tareeke seekho",Jaanne ke liye
+US_54,1,lifecycle_stage_churned,3,notif_2,11:00,Push,Your Edge,Validate your unique approach with {feature_name} now,Go,Aapka Edge,"{first_name}, {feature_name} ke saath apna unique approach validate karein",Chalo
+US_54,1,lifecycle_stage_churned,3,notif_3,13:00,Email,Today's Gain,You learned something new with {feature_name} today,Done,Aaj Ka Labh,"{first_name}, aaj {feature_name} ke saath kuch naya seekha",Ho Gaya
+US_55,2,lifecycle_stage_trial,5,notif_1,15:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_55,2,lifecycle_stage_trial,5,notif_2,17:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_55,2,lifecycle_stage_trial,5,notif_3,19:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_55,2,lifecycle_stage_trial,5,notif_4,19:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_55,2,lifecycle_stage_trial,5,notif_5,21:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_56,2,lifecycle_stage_trial,5,notif_1,18:00,Push,Get Ready,Your {streak_current} streak is on fire,Let's Go,Taiyaar Ho Jaao,Aapka {streak_current} streak jal raha hai,Chalo Shuru Karein
+US_56,2,lifecycle_stage_trial,5,notif_2,20:00,In-App,New Challenge,Discover what's new in {feature_name},Explore,Kya Hai Naya?,{feature_name} mein kya hai naya?,Jaanein
+US_56,2,lifecycle_stage_trial,5,notif_3,22:00,Push,Level Up,Master {feature_name} & earn {coins_balance} coins,Play Now,Level Badhaein,{feature_name} mein master banen aur {coins_balance} coins kamaen,Abhi Khelien
+US_56,2,lifecycle_stage_trial,5,notif_4,22:15,In-App,You're In,"Welcome back, {first_name}! Check your {streak_current} streak",View,Aap Andar Hain,"Swagat hai, {first_name}! Aapka {streak_current} streak dekhein",Dekhein
+US_56,2,lifecycle_stage_trial,5,notif_5,00:00,Email,Daily Recap,You learned something new today in {feature_name},Done,Din Bhar Ka Recap,Aaj aapne {feature_name} mein kuch naya seekha,Ho Gaya
+US_57,1,lifecycle_stage_inactive,3,notif_1,20:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_57,1,lifecycle_stage_inactive,3,notif_2,22:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_57,1,lifecycle_stage_inactive,3,notif_3,00:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_58,1,lifecycle_stage_inactive,3,notif_1,06:00,In-App,New Tricks,Discover smarter tools {first_name}!,Explore,Kya Hai Naya?,Smarter tools try karo {first_name}!,Dekho
+US_58,1,lifecycle_stage_inactive,3,notif_2,08:00,Push,Rejoin Now,Your streak {streak_current} awaits!,Go,Wapas Aao,Aapka streak {streak_current} wait kar raha hai!,Chalo
+US_58,1,lifecycle_stage_inactive,3,notif_3,10:00,Email,Today's Gain,You gained today!,Done,Aaj Ka Labh,Aaj aapne kya seekha!,Ho Gaya
+US_59,0,lifecycle_stage_paid,5,notif_1,17:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_59,0,lifecycle_stage_paid,5,notif_2,19:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_59,0,lifecycle_stage_paid,5,notif_3,21:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_59,0,lifecycle_stage_paid,5,notif_4,21:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_59,0,lifecycle_stage_paid,5,notif_5,23:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_60,0,lifecycle_stage_paid,5,notif_1,18:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_60,0,lifecycle_stage_paid,5,notif_2,20:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_60,0,lifecycle_stage_paid,5,notif_3,22:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_60,0,lifecycle_stage_paid,5,notif_4,22:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_60,0,lifecycle_stage_paid,5,notif_5,00:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya
+US_61,0,lifecycle_stage_paid,5,notif_1,08:00,Push,Coins Alert,Your {coins_balance} is growing!,Grow,Coins Alert,Aapka {coins_balance} badh raha hai!,Badhao
+US_61,0,lifecycle_stage_paid,5,notif_2,10:00,In-App,New,What's hiding in your {feature_name}?,See,Naya,Aapke {feature_name} mein kya chupa hai?,Dekho
+US_61,0,lifecycle_stage_paid,5,notif_3,12:00,Push,Claim Now,Get more {coins_balance} & customize your profile!,Claim,Abhi Claim Karo,"Aur {coins_balance} kamao, apna profile customize karo!",Claim Karo
+US_61,0,lifecycle_stage_paid,5,notif_4,12:15,In-App,You're Back,Welcome to your {feature_name}! Check your {coins_balance}.,Go,Aap Wapas,Aapka {feature_name}! Aapka {coins_balance} dekho.,Chalo
+US_61,0,lifecycle_stage_paid,5,notif_5,14:00,Email,Daily Recap,You earned {coins_balance} today!,Done,Aaj Ka Recap,Aaj aapne {coins_balance} kamaya!,Ho Gaya

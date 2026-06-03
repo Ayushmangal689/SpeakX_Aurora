@@ -1,0 +1,12 @@
+{
+    "north_star": {
+        "metric_name": "Weekly Active Learners (WAL)",
+        "definition": "A user is considered a WAL if they have a sessions_last_7d count of >= 3 AND an exercises_completed_7d count of >= 5",
+        "threshold_value": 3.0,
+        "measurable_proxy": {
+            "metric_name": "sessions_last_7d",
+            "definition": "The number of sessions a user has had in the last 7 days",
+            "predictive_reasoning": "Hitting this proxy statistically predicts success for the North Star Metric because it indicates a user's engagement with the platform"
+        }
+    }
+}

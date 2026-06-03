@@ -1,0 +1,37 @@
+{
+    "guardrails": {
+        "allowed_tones": [
+            "Encouraging",
+            "Witty",
+            "Value-driven",
+            "Challenging",
+            "Analytical",
+            "Celebratory"
+        ],
+        "disallowed_tones": [
+            "Guilt-tripping",
+            "Manipulative",
+            "Overly aggressive",
+            "Desperate",
+            "Robotic"
+        ],
+        "safety_check_prompt": "Is this message respectful and empowering?"
+    },
+    "hook_taxonomy": [
+        {
+            "octalysis_drive": "Accomplishment",
+            "hook_name": "The Mastery Boost",
+            "psychological_angle": "This hook works by providing users with a sense of accomplishment and mastery, which motivates them to continue learning"
+        },
+        {
+            "octalysis_drive": "Loss Avoidance",
+            "hook_name": "The Streak Savior",
+            "psychological_angle": "This hook works by creating a sense of loss avoidance, where users feel motivated to maintain their streak and avoid losing progress"
+        },
+        {
+            "octalysis_drive": "Empowerment",
+            "hook_name": "The AI Advantage",
+            "psychological_angle": "This hook works by providing users with a sense of empowerment, where they feel confident and in control of their learning journey"
+        }
+    ]
+}

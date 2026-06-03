@@ -1,0 +1,36 @@
+{
+    "feature_mappings": [
+        {
+            "feature_name": "Core Learning",
+            "db_col": "exercises_completed_7d",
+            "inferred_goal": "Engagement",
+            "octalysis_drive": "Accomplishment",
+            "target_lifecycle_stages": [
+                "Trial",
+                "Paid"
+            ],
+            "reasoning": "The Core Learning feature drives feelings of accomplishment, which is a key motivator for users in the Trial and Paid stages"
+        },
+        {
+            "feature_name": "Gamification",
+            "db_col": "streak_current",
+            "inferred_goal": "Retention",
+            "octalysis_drive": "Loss Avoidance",
+            "target_lifecycle_stages": [
+                "Paid",
+                "Inactive"
+            ],
+            "reasoning": "The Gamification feature drives loss avoidance, which is a key motivator for users in the Paid and Inactive stages"
+        },
+        {
+            "feature_name": "AI Companion",
+            "db_col": "feature_ai_tutor_used",
+            "inferred_goal": "Conversion",
+            "octalysis_drive": "Empowerment",
+            "target_lifecycle_stages": [
+                "Trial"
+            ],
+            "reasoning": "The AI Companion feature drives empowerment, which is a key motivator for users in the Trial stage"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+umap-learn
+langchain
+groq
+pydantic
+matplotlib
+seaborn
+ipykernel
+langchain-openai
+langchain-groq
